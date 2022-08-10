@@ -2,11 +2,11 @@
 
 - Fine-tunning VGG11 model with MNIST
   - Training VGG11 model with MNIST
-  ![model](model.png)
+  <img src="model.png" width="400">
   
   - Inspecting the training process
     - Loss function vsepoch
-    ![Loss function](loss.png | width=400)
+    <img src="loss.png" width="400">
     - Accuracy vs epoch
     ![Accuracy](accuracy.png | width=400)
     
